@@ -1,1 +1,1 @@
-This is an empty repository reserved for a special project.
+repository reserved for a project.
